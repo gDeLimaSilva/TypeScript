@@ -3,7 +3,7 @@ O blog contará com um sistema de login, cadastro, recuperação, alteração e 
 permitirá também que usuários publiquem, alterem e apaguem suas "histórias" (posts), além de
 comentárem nos posts de outros usuários.
 
-Recursos utilizados até o momento:
+Pacotes utilizados até o momento:
 - Express (configuração de rotas);
-- Nodemon (evitar seja necessário rodar a aplicação novamente
-a cada alteração feita durante o desenvolvimento).
+- Nodemon (reinicia automaticamente a aplicação quando
+uma alteração é feita nos arquivos durante o desenvolvimento).
